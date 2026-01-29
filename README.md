@@ -1,1 +1,11 @@
-# Portfolio_v1
+# My Portfolio
+
+This is my personal portfolio website built with HTML, CSS, and JavaScript.
+
+## Features
+- Responsive design
+- Light & dark mode
+- Contact form
+
+## View Online
+[Live Site](https://USERNAME.github.io/REPO_NAME/)

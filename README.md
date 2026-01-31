@@ -8,4 +8,4 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript.
 - Contact form
 
 ## View Online
-[Live Site](https://github.com/DarshanNaik547/portfolio/)
+[Live Site](https://darshannaik547.github.io/portfolio/)
